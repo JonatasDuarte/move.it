@@ -1,22 +1,12 @@
-import { Button } from './components/Button'
-
+import { ExperienceBar } from './components/ExperienceBar'
+import './styles/global.css'
 function App() {
 
   return (
-    <div>
-      <Button color="pink">
-        Botão 1
-      </Button>
-      <Button color="purple">
-        Botão 1
-      </Button>
-      <Button color="orange">
-        Botão 1
-      </Button>
-      <Button color="red">
-        Botão Soma
-      </Button>
+    <div className="container">
+      <ExperienceBar/>
     </div>
+   
   );
 }
 
