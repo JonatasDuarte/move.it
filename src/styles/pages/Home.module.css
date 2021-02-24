@@ -17,3 +17,10 @@
 
   align-content: center;
 }
+
+/*Ajustando à tela*/
+@media (max-height: 750px) {
+  .container section {
+    margin-top: 3rem;
+  }
+}
