@@ -69,11 +69,11 @@ O layout da aplicação está disponível no Figma e foi feito pelo Tiago Luchte
 ## 🚀 Como executar o projeto
 
 
-### Pré-requisitos
+### Pré-requisitos para execução do projeto
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Antets de tudo, é preciso ter em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além de um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/)
 
 
 #### ⌨ Rodando a aplicação web (Front-end)
@@ -90,11 +90,11 @@ $ cd move.it
 $ cd move.it
 
 # Instale as dependências
-$ npm install *ou* yarn install
+$ npm install ou yarn install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev ou yarn dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:3000 no seu browser - acesse http://localhost:3000
 
 ```
