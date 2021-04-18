@@ -43,3 +43,23 @@ O MoveIt é um projeto desenvolvido na NLW#4 realizado pela Rocketseat e ministr
    + Inserir áudio de notificação
 - [x] Passar de level após completar a barra de XP
 - [ ] Exibir modal quando avançar de nível
+
+
+
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no Figma e foi feito pelo Tiago Luchtenberg:
+
+<a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=160:2761">
+  <img alt="Made by Tiago Luchtenberg" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Home.png" width="400px">
+
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/ciclo-encerrado.png" width="400px">
+</p>
