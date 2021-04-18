@@ -114,3 +114,19 @@ $ npm run dev ou yarn dev
 
 
 
+## 💪 Quer contribuir para o projeto?! Então segue os passos
+
+1. Faça um **fork** do projeto
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+- Caso queira saber mais sobre como contribuir em um projeto no git: [Clique aqui](https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-github#:~:text=Faça%20um%20branch%20para%20cada,(Pull%20Request)%20no%20GitHub.)
+
+
+## 👨‍💻 Autor e contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-Nayara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/)](https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/) 
+[![Gmail Badge](https://img.shields.io/badge/-nayara.florentino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayara.florentino@gmail.com)](mailto:nayara.florentino@gmail.com)
+
+Feito por [Jonatas Duarte](https://github.com/JonatasDuarte) com 💙!
