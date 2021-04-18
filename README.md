@@ -60,6 +60,14 @@ As seguintes ferramentes foram usadas na construção da aplicação:
 -  **[React](https://pt-br.reactjs.org/)**
 -  **[Node.js](https://nodejs.org/en/)**
 
+
+     <p>
+     <img width="20px" src="https://seekicon.com/free-icon-download/nextjs_1.svg">
+     <img width="20px" src="https://seekicon.com/free-icon-download/typescript_2.svg">
+     <img width="20px" src="https://seekicon.com/free-icon-download/nodejs_2.svg">
+     <img width="20px" src="https://seekicon.com/free-icon-download/reactjs_1.svg">
+    </p>
+
 > Confira o arquivo [package.json](https://github.com/JonatasDuarte/move.it/blob/next/package.json)
 
 
@@ -89,8 +97,9 @@ O layout da aplicação está disponível no Figma e foi feito pelo Tiago Luchte
 
 ### Pré-requisitos para execução do projeto
 
-Antets de tudo, é preciso ter em sua máquina as seguintes ferramentas:
+Antes de tudo, é preciso ter em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+
 Além de um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/)
 
 
