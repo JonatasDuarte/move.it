@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">  MoveIt -- NLW#4 </h1>
 
-## Getting Started
+<h4 align="center"> ✅ Finalizado ✅ </h4>
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autora">Autor</a> 
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 💻 Sobre o projeto
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+MoveIt foi criado com o intuito de ajudar pessoas que passam muito tempo em frente ao computador a realizar uma pausa e fazer uma atividade durante um determinado período.
+Ele é baseado na técnica de [Pomodoro](https://pt.wikipedia.org/wiki/Técnica_pomodoro), consistindo em curtos ciclos de trabalho/estudo acompanhados de uma pequena pausa.
+Dessta forma, a cada atividade concluída, no tempo de pausa, o usuário recebe um XP e assim vai aumentando de nível ao atingir a meta máxima.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+O MoveIt é um projeto desenvolvido na NLW#4 realizado pela Rocketseat e ministrada pelo CTO Diego Fernandes. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
-## Learn More
+## ⚙️ Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [x] Experience Bar (experiência atual e a necessária para o próximo level)
+- [x] Profile 
+- [x] Completed Challenges
+- [x] Countdown (de 25min)
+  - + Iniciar ciclo
+  - + Abandonar ciclo
+  - + Finalizar ciclo
+- [x] Definir desafios
+- [x] Falhar no desafio
+  - + Resetar desafios
+  - + Resetar tempo
+- [x] Completar desafio
+  - + Aumentar XP
+  - + Resetar tempo
+  - + Passar para o próximo desafio
+- [x] Notificação de novo desafio disponível
+  - + Exibir notificação no browser
+  - + Inserir áudio de notificação
+- [x] Passar de level após completar a barra de XP
+- [ ] Exibir modal quando avançar de nível
