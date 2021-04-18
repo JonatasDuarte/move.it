@@ -62,10 +62,10 @@ As seguintes ferramentes foram usadas na construção da aplicação:
 
 
      <p>
-     <img width="20px" src="https://seekicon.com/free-icon-download/nextjs_1.svg">
-     <img width="20px" src="https://seekicon.com/free-icon-download/typescript_2.svg">
-     <img width="20px" src="https://seekicon.com/free-icon-download/nodejs_2.svg">
-     <img width="20px" src="https://seekicon.com/free-icon-download/reactjs_1.svg">
+     <img width="25px" src="./assets/NextJs.png">
+     <img width="25px" src="https://seekicon.com/free-icon-download/typescript_2.svg">
+     <img width="25px" src="https://seekicon.com/free-icon-download/nodejs_2.svg">
+     <img width="25px" src="https://seekicon.com/free-icon-download/reactjs_1.svg">
     </p>
 
 > Confira o arquivo [package.json](https://github.com/JonatasDuarte/move.it/blob/next/package.json)
