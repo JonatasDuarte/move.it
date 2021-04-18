@@ -27,19 +27,19 @@ O MoveIt é um projeto desenvolvido na NLW#4 realizado pela Rocketseat e ministr
 - [x] Profile 
 - [x] Completed Challenges
 - [x] Countdown (de 25min)
-  - + Iniciar ciclo
-  - + Abandonar ciclo
-  - + Finalizar ciclo
+   + Iniciar ciclo
+   + Abandonar ciclo
+   + Finalizar ciclo
 - [x] Definir desafios
 - [x] Falhar no desafio
-  - + Resetar desafios
-  - + Resetar tempo
+   + Resetar desafios
+   + Resetar tempo
 - [x] Completar desafio
-  - + Aumentar XP
-  - + Resetar tempo
-  - + Passar para o próximo desafio
+   + Aumentar XP
+   + Resetar tempo
+   + Passar para o próximo desafio
 - [x] Notificação de novo desafio disponível
-  - + Exibir notificação no browser
-  - + Inserir áudio de notificação
+   + Exibir notificação no browser
+   + Inserir áudio de notificação
 - [x] Passar de level após completar a barra de XP
 - [ ] Exibir modal quando avançar de nível
