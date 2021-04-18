@@ -20,6 +20,11 @@ Dessta forma, a cada atividade concluída, no tempo de pausa, o usuário recebe 
 
 O MoveIt é um projeto desenvolvido na NLW#4 realizado pela Rocketseat e ministrada pelo CTO Diego Fernandes. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
+O deploy do projeto foi feito pelo [Vercel](https://vercel.com) e você pode vê-lo em [**MoveIt**](https://moveit-three-flame.vercel.app)
+
+
+
+
 ## ⚙️ Funcionalidades
 
 - [x] Experience Bar (experiência atual e a necessária para o próximo level)
@@ -135,4 +140,4 @@ $ npm run dev ou yarn dev
 
   </p>  
 
-Feito por [Jonatas Duarte](https://github.com/JonatasDuarte) com 💙
+Feito com 💙 por [Jonatas Duarte](https://github.com/JonatasDuarte)
