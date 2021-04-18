@@ -8,7 +8,7 @@
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-autora">Autor</a> 
+ <a href="#-autor">Autor</a> 
 </p>
 
 
@@ -124,9 +124,15 @@ $ npm run dev ou yarn dev
 - Caso queira saber mais sobre como contribuir em um projeto no git: [Clique aqui](https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-github#:~:text=Faça%20um%20branch%20para%20cada,(Pull%20Request)%20no%20GitHub.)
 
 
-## 👨‍💻 Autor e contato
+## 👨‍💻 Autor
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nayara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/)](https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/) 
-[![Gmail Badge](https://img.shields.io/badge/-nayara.florentino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayara.florentino@gmail.com)](mailto:nayara.florentino@gmail.com)
+<p align="left">
+  <a href="mailto:gabrield.developer@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jonatasilvaduarte@gmail.com" /></a>
 
-Feito por [Jonatas Duarte](https://github.com/JonatasDuarte) com 💙!
+  <a href="https://www.linkedin.com/in/gabedev/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jonatas-duarte/" /></a>
+
+  </p>  
+
+Feito por [Jonatas Duarte](https://github.com/JonatasDuarte) com 💙
