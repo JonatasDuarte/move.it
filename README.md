@@ -5,9 +5,9 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autora">Autor</a> 
 </p>
 
@@ -42,6 +42,20 @@ O MoveIt é um projeto desenvolvido na NLW#4 realizado pela Rocketseat e ministr
    + Inserir áudio de notificação
 - [x] Passar de level após completar a barra de XP
 - [ ] Exibir modal quando avançar de nível
+
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentes foram usadas na construção da aplicação:
+
+
+### **Website** ([Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/))
+
+-  **[React](https://pt-br.reactjs.org/)**
+-  **[Node.js](https://nodejs.org/en/)**
+
+> Confira o arquivo [package.json](https://github.com/JonatasDuarte/move.it/blob/next/package.json)
 
 
 
@@ -97,3 +111,6 @@ $ npm run dev ou yarn dev
 # A aplicação será aberta na porta:3000 no seu browser - acesse http://localhost:3000
 
 ```
+
+
+
