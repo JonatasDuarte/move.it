@@ -64,8 +64,8 @@ As seguintes ferramentes foram usadas na construção da aplicação:
      <p>
      <img width="35px" src="./assets/NextJs.png">
      <img width="35px" src="https://seekicon.com/free-icon-download/typescript_2.svg">
-     <img width="35px" src="https://seekicon.com/free-icon-download/nodejs_2.svg">
      <img width="35px" src="https://seekicon.com/free-icon-download/reactjs_1.svg">
+     <img width="35px" src="https://seekicon.com/free-icon-download/nodejs_2.svg">
     </p>
 
 > Confira o arquivo [package.json](https://github.com/JonatasDuarte/move.it/blob/next/package.json)
@@ -132,7 +132,8 @@ $ npm run dev ou yarn dev
 
 1. Faça um **fork** do projeto
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: 
+`git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 
 - Caso queira saber mais sobre como contribuir em um projeto no git: [Clique aqui](https://imasters.com.br/desenvolvimento/como-contribuir-com-um-projeto-no-github#:~:text=Faça%20um%20branch%20para%20cada,(Pull%20Request)%20no%20GitHub.)
